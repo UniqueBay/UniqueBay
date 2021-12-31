@@ -28,7 +28,7 @@ My Skills
 - TypeScript
 - Node.js
 
-When I am not coding, I love playing video games, watch anime, series, or movies. 
+I love codig with some music and, When I am not coding, I love playing video games or watching anime, series, or movies.
 
 ### Get in Touch
 * Personal Website: []()
