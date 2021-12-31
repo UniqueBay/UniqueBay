@@ -25,7 +25,8 @@ My Skills
 - JavaScript
 - React.js
 - Redux
--Node.js
+- TypeScript
+- Node.js
 
 When I am not coding, I love playing video games, watch anime, series, or movies. 
 
