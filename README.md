@@ -5,10 +5,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=UniqueBay)
 
 <a href="https://github.com/UniqueBay/UniqueBay">
-  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adetayo1999&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UniqueBay&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/UniqueBay/UniqueBay">
-  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=Adetayo1999&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abayomi Alabi's GitHub Stats" />
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=UniqueBay&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abayomi Alabi's GitHub Stats" />
 </a> 
 
 &#x263A; I am Abayomi Alabi. A Frontend Engineer.
